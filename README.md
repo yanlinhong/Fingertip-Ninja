@@ -13,7 +13,7 @@
 
 1. 克隆本项目到本地：
    
-   git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
+   git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/yanlinhong/Fingertip-Ninja.git)
 
 2. 安装环境依赖
 
