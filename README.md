@@ -12,7 +12,7 @@
 ## 🛠️ 如何运行源码 (给开发者)
 
 1. 克隆本项目到本地：
-   ```bash
+   
    git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
 
 2. 安装环境依赖
